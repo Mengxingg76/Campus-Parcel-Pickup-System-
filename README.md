@@ -1,6 +1,7 @@
 # 校园快递代取平台
 
 一个基于 Node.js + Vue3 的前后端分离校园快递代取平台项目。
+项目b站视频教程https://www.bilibili.com/video/BV1MZvWBvE5K/?p=2&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=bdbb166565830635c6678abac174faaa
 
 ## 技术栈
 
