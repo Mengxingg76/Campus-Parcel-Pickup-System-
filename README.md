@@ -80,16 +80,7 @@ mysql -u root -p express_delivery < database/init.sql
 
 ### 2. 后端配置
 
-1. 修改 `backend/.env` 中的数据库配置：
-```env
-DB_HOST=localhost
-DB_PORT=3306
-DB_NAME=express_delivery
-DB_USER=root
-DB_PASSWORD=你的数据库密码
-```
-
-2. 安装依赖并启动后端服务：
+1. 安装依赖并启动后端服务：
 ```bash
 cd backend
 npm install
@@ -98,7 +89,7 @@ npm run dev  # 开发模式
 npm start    # 生产模式
 ```
 
-后端服务将在 `http://localhost:8080` 启动。
+后端服务将在 `http://localhost:8080/api` 启动。
 
 ### 3. 前端配置
 
