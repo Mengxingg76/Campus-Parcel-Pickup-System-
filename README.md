@@ -179,7 +179,4 @@ npm run dev
 4. 文件上传路径配置在 `.env` 的 `UPLOAD_PATH` 中，需要确保该目录存在
 5. 如果使用 `npm run dev`，需要全局安装 nodemon：`npm install -g nodemon`
 
-## 许可证
-
-MIT License
 
