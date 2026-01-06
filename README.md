@@ -4,7 +4,7 @@
 
 ## 项目b站视频教程
 
-https://www.bilibili.com/video/BV1MZvWBvE5K/?p=2&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=bdbb166565830635c6678abac174faaa
+https://www.bilibili.com/video/BV1MZvWBvE5K
 
 ## 技术栈
 
